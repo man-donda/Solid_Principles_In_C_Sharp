@@ -12,3 +12,4 @@ C:\Users\mann9\OneDrive\Desktop\Test\Test\obj\Debug\net10.0\refint\Test.dll
 C:\Users\mann9\OneDrive\Desktop\Test\Test\obj\Debug\net10.0\Test.pdb
 C:\Users\mann9\OneDrive\Desktop\Test\Test\obj\Debug\net10.0\Test.genruntimeconfig.cache
 C:\Users\mann9\OneDrive\Desktop\Test\Test\obj\Debug\net10.0\ref\Test.dll
+c:\Users\mann9\OneDrive\Desktop\Test\Test\obj\Debug\net10.0\Test.sourcelink.json

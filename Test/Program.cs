@@ -61,11 +61,18 @@ foreach(var vehicle in vehicles)
 //--------------------------------------------------------------------------------------------------------
 
 // Coupling - The degree of dependency between different classes.
-
+/*
 using Test.src.OopPrinciples.Coupling; 
 
 var order = new Order(new SmsSender());
 order.PlaceOrder();
-
+*/
 
 //--------------------------------------------------------------------------------------------------------
+
+// Composition - Composition involves creating complex objects by combining simpler objects or components. In composition, objects are assembled together to form larger structures, with each component object maintaining its own state and behavior. Composition is often described in terms of a "has-a" relationship.
+
+using Test.src.OopPrinciples.Composition;
+
+var car = new Car();
+car.StartCar();
