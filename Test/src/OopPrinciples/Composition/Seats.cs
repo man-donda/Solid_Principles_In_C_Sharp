@@ -4,7 +4,7 @@ namespace Test.src.OopPrinciples.Composition
     {
         public void sit()
         {
-            Console.WriteLine("sitting on seqats");
+            Console.WriteLine("sitting on seats");
         }
     }
 }
